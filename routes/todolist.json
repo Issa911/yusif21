@@ -1,0 +1,33 @@
+[
+    {
+        "activity": "GOOD MUSIC",
+        "department": "IT DEPT",
+        "employee": "Majeed Jordan",
+        "status": "active"
+    },
+
+    {
+        "activity": "fashion Designer",
+        "department": "OFF WHITE",
+        "employee": "Virgil Abloh",
+        "status": "active"
+    },
+
+    {
+        "activity": "Trapping",
+        "department": "Grime M",
+        "employee": "Hardy carpio",
+        "status": "active"
+    },
+
+    {
+        "activity": "Watch Guard",
+        "department": "Black Gate",
+        "employee": "Jon Snow",
+        "status": "active"
+    }
+
+
+
+
+]

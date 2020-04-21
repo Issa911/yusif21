@@ -1,0 +1,31 @@
+[
+    {
+        "name": "Majeed Jordan",
+        "ID": "ESC911",
+        "position": "IT Manager",
+        "image": "/image/mj.jpg"
+    },
+
+    {
+        "name": "Virgil Abloh",
+        "ID": "ESC001",
+        "position": "Finacial Manager",
+        "image": "/image/virgil.jpg"
+    },
+
+    {
+        "name": "Hardy Carpio",
+        "ID": "ESC650",
+        "position": "production manager",
+        "image": "/image/hardy.jpg"
+    },
+
+    {
+        "name": "Jon Snow",
+        "ID": "ECS111",
+        "position": "IT Manager",
+        "image": "/image/jon.png"
+    }
+
+
+]
